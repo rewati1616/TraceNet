@@ -1,0 +1,10 @@
+{
+  "name": "TraceNet",
+  "description": "An AI-powered Missing Person Tracking System enabling face recognition matches, age progression, geo-alerts, sighting uploads, and collaborative law-enforcement investigation.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
